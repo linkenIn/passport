@@ -1,0 +1,30 @@
+{
+  "name": "passport-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.1",
+    "method-override": "^2.3.7",
+    "passport": "^0.3.2",
+    "passport-linkedin": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkenIn/passport.git"
+  },
+  "author": "Justin Besteman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkenIn/passport/issues"
+  },
+  "homepage": "https://github.com/linkenIn/passport#readme"
+}
